@@ -24,3 +24,10 @@ Conclusion I: The first conclusion drawn from the line graph of data for plays k
 
 Conclusion II: After the month of May there is a consistent drop in the numbers until the month of October where it rises slightly, perhaps indicating that as school and work has kicked back into gear people are reintroduced to each other after summer and that energy generates a slight increase in donations at the start. As we proceed into the fall and winter months there is a noticeable decline in successful campaigns launched. This would suggest that if our client were to start her campaign she should aim for the month of May and really should start it no later than the month of June. 
 
+### What can you conclude about the Outcomes Based on Goals analysis?
+The general sense I gained from calculating and charting the data of successful vs failed play kickstarters based on their fundraising goals is that, simply, you have a better chance of reaching your kickstarter goal if you keep the fundraising goal low. While there is a bump at the 40-49.9K range the data set is small (3 total kickstarters) and might have been powered by a kickstarter that knew it could draw from high wealth individuals specifically. Regardless there is not enough data in the high data range to rebute our general conclusion that a lower donation goal equals a higher possibility of success
+
+### What are some limitations of this dataset?
+As mentioned before the data becomes very limited after a certain amount of dollars for the fundraising goal thus it is a bit harder to draw any conclusions about the chances of success above a certain goal amount. Another problem could be the difference in currency across the total amount of countries that the kickstarter analysis was performed on. A standardization of currency could help to serve a more accurate chart and data set. 
+
+
