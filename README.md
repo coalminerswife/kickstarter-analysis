@@ -12,3 +12,15 @@ I encountered two challenges in creating the pivot tables and charts needed to v
 The second challenge I faced was learning how to properly format the line graph on the Outcomes Based on Goals plot of data. I kept playing around with the formulas in the select data option before realizing I was making it too complicated for myself and I could simply remove all the different columns I did not want in the graph by using the "-" button underneath the legend series header. After doing this my graph was formatted correctly.
 
 ## Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://github.com/coalminerswife/kickstarter-analysis/assets/138823035/3c75cb18-ef0a-4655-b368-17c63d741975)
+
+## Analysis of Outcomes Based on Goals
+![Outcomes_Based_On_Goal](https://github.com/coalminerswife/kickstarter-analysis/assets/138823035/f5a6e8dd-1e5f-4117-82eb-b44c8a182a5d)
+
+
+# Results
+### What are two conclusions you can draw about the Outcomes Based on Launch Date analysis?
+Conclusion I: The first conclusion drawn from the line graph of data for plays kickstarters is that there is a significant jump from successful campaigns in between the months of April and May with the amount reaching a peak value of 111 successful kickstarters launched in May. While there is also a small jump in failures over the same time period the size of the increase is not the same as it is with the successful kickstarters. This could suggest that the population the kickstarter is geared towards has more free time and money to spend as the summer months kick off. 
+
+Conclusion II: After the month of May there is a consistent drop in the numbers until the month of October where it rises slightly, perhaps indicating that as school and work has kicked back into gear people are reintroduced to each other after summer and that energy generates a slight increase in donations at the start. As we proceed into the fall and winter months there is a noticeable decline in successful campaigns launched. This would suggest that if our client were to start her campaign she should aim for the month of May and really should start it no later than the month of June. 
+
